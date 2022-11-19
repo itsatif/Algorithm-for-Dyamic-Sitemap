@@ -141,8 +141,7 @@ app.get("/", (req, res) => {
     <loc>${data}</loc>
     <lastmod>2022-08-25T19:53:51+00:00</lastmod>
     <priority>1.00</priority>
-  </url>
-<url>`;
+  </url>`;
     return data;
   });
   xml = xml + "\n" + "</urlset>";
