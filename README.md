@@ -1,0 +1,1 @@
+Developed by Atif Khan for creating dynamic sitemap.xml for SEO puroses.
